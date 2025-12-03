@@ -1,0 +1,7 @@
+print("What does a cloud wear under his raincoat?")
+input("???????????")
+print("Thunderwear")
+input("--------------------------------------------------------------")
+print("what has 4 wheels and flies?")
+input("????????????")
+print("a garbage truck")
